@@ -1,6 +1,6 @@
 # Google-IT-Support-Professional-Certificate
 
-[This 5-course certificate, developed by Google] (https://www.coursera.org/professional-certificates/google-it-support), includes innovative curriculum designed to prepare you for an entry-level role in IT support. A job in IT can mean in-person or remote help desk work in a small business or at a global company like Google. The program is part of Grow with Google, a Google initiative to help create economic opportunities for all Americans. Learn more.
+[This 5-course certificate, developed by Google](https://www.coursera.org/professional-certificates/google-it-support), includes innovative curriculum designed to prepare you for an entry-level role in IT support. A job in IT can mean in-person or remote help desk work in a small business or at a global company like Google. The program is part of Grow with Google, a Google initiative to help create economic opportunities for all Americans. Learn more.
 
 Upon completion of the certificate, you can share your information with top employers like Cognizant, GE Digital, Hulu, Infosys, Intel, KForce, MCPc, PNC Bank, RICOH USA, Sprint, TEKSystems, Veterans United Home Loans, Walmart and their subsidiaries, and of course, Google. You can also earn a CompTIA and Google dual credential when you complete the Google certificate and pass the CompTIA A+ certification exams.
 
