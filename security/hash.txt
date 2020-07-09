@@ -1,0 +1,14 @@
+# create a hash digest of a file
+openssl dgst -sha256 -sign private_key.pem -out secret.txt.sha256 secret.txt
+
+# use public key and hash digest to verify file has not been modified
+openssl dgst -sha256 -verify public_key.pem -signature secret.txt.sha256 secret.txt
+
+# create a file to be hashed
+echo 'This is some text in a file, just so we have some data' > file.txt
+
+# make a hash using sha256
+shasum -a 256 file.txt > file.txt.sha256
+
+# verify no modifications
+sha256 -c file.txt.sha256
